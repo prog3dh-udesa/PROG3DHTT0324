@@ -1,7 +1,6 @@
 import Header from "./components/Header";
 import TiraFichas from "./components/TiraFichas/TiraFichas";
 import TiraCategorias from "./components/TiraCategorias/TiraCategorias";
-import Cards from "./components/Cards/Cards";
 import Footer from "./components/Footer/Footer";
 
 let navegacion = [
@@ -34,7 +33,6 @@ function App() {
         <TiraFichas />
         <h2>Categories in database</h2>
         <TiraCategorias />
-        <Cards />
       </main>
       <Footer />
     </div>

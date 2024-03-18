@@ -1,0 +1,38 @@
+Backlog
+
+Grupos de 3:
+	Persona 1:
+		-Header
+		-Home
+		-1 pagina de Ver Todas
+		-1 Pagina detalle
+
+	Persona 2:
+		-Resultados de busqueda
+		-Pagina de not found
+		-1 Pagina de Ver Todas
+		-Loader
+
+	Persona 3:
+		-Navegación
+		-Favoritos
+		-1 Pagina detalle
+	
+Grupos de 2:
+	Persona 1:
+		-Header
+		-Home
+		-1 pagina de Ver Todas
+		-1 Pagina detalle
+		-Favoritos
+
+	Persona 2:
+		-Resultados de busqueda
+		-Pagina de not found
+		-1 Pagina de Ver Todas
+		-Loader
+		-1 Pagina detalle
+		-Navegación
+
+		
+	
