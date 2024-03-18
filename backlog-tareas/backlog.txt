@@ -2,7 +2,7 @@ Backlog
 
 Grupos de 3:
 	Persona 1:
-		-Header
+		-Header y Footer
 		-Home
 		-1 pagina de Ver Todas
 		-1 Pagina detalle
@@ -20,7 +20,7 @@ Grupos de 3:
 	
 Grupos de 2:
 	Persona 1:
-		-Header
+		-Header y Footer
 		-Home
 		-1 pagina de Ver Todas
 		-1 Pagina detalle
