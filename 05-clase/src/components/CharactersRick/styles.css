@@ -1,0 +1,10 @@
+.rickContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 16px;
+}
+
+.rickContainer article{
+    width: 25%;
+}
